@@ -1,15 +1,16 @@
 ### 😄 About Me    
 Hi there 👋 I'm JeongWu (Jane)    
-I'm a Full-Stack Web Developer from Seoul, Korea.    
+<!--
+I'm a Full-Stack Web Developer from Seoul, Korea.  -->  
 <!--
 **JeongWu-Jane/JeongWu-Jane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-
+<!--
 - :hotel: I’m currently working on LOTTE DATA COMMUNICATION COMPANY.
 - :book: I’m currently learning Frontend frameworks. (React, Vue..)
-
+-->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...🌱
 - 💬 Ask me about anything!
